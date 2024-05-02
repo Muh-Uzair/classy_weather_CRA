@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+
+    height: 100vh;
+    width: 100vw;
+
+    overflow: auto;
+}
+
+#root{
+
+    margin: 0px;
+
+    height: 100vh;
+    width: 100vw;
+
+    overflow: auto;
+
+}
+
+p {
+    margin: 0px;
+    font-family: gilroy; 
+}
+
+.div_containing_everything{
+
+    margin: 0px;
+
+    height: 100vh;
+    width: 100vw;
+
+    overflow: auto;
+
+    background-color: rgb(255, 197, 186);
+}
